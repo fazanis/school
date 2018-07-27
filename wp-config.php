@@ -54,7 +54,7 @@ define('AUTH_SALT',        'YZ/;Ir9Xr |!_!A#n9PbpL1nQrRvyPd?r5^EjCl:| U=Ypf*CQuj
 define('SECURE_AUTH_SALT', 'mF+5Ww:_NfHSX0F{ifFu_B!T$waeX~Taip[`(ZB1K~vv45=I1K:0 V;1kNUr|Li*');
 define('LOGGED_IN_SALT',   's;ysag%$nAC(jh2oyB.|Fo/?ep-}M8,4/^-WGc/hA&QP1p`CWl~OZirOOsDvr{_K');
 define('NONCE_SALT',       'y&giI-#xWsGr.sC635t8CH*!x{`10 sHCYTXS=8I?mj?CQq|w{LU~Mc8{:Lf`+$G');
-
+define( "WPGLOBUS_CUSTOMIZE", false );
 /**#@-*/
 
 /**
